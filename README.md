@@ -2,6 +2,7 @@
 Welcome to the HTML Snake Game repository! This project brings back the nostalgia of the classic Snake game right into your browser, built entirely using HTML, CSS, and JavaScript.Whether you're a beginner looking to learn web development or a seasoned coder wanting to reminisce, this game offers a fun and interactive way to engage with programming concepts.
 
 **Features:**
+
 **Classic Gameplay**: Enjoy the timeless gameplay of Snake, where you control a snake to eat food and grow longer.                         
 **Responsive Design**: Play seamlessly across different devices and screen sizes, thanks to the responsive layout.                         
 **Customizable Settings**: Adjust game speed, grid size, or even add new features to tailor the gameplay to your preferences.              
